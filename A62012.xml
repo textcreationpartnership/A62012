@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius academicus communicating the intelligence and affairs of Oxford to the rest of the passive party throwout the Kingdom : From Munday in Easter-week to Saturday the 15 of April, anno 1648.</title>
+            <author>Swadlin, Thomas, 1600-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62012</idno>
+            <idno type="STC">Wing S6222</idno>
+            <idno type="STC">ESTC P1140</idno>
+            <idno type="EEBO-CITATION">10445703</idno>
+            <idno type="OCLC">ocm 10445703</idno>
+            <idno type="VID">45060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1390:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius academicus communicating the intelligence and affairs of Oxford to the rest of the passive party throwout the Kingdom : From Munday in Easter-week to Saturday the 15 of April, anno 1648.</title>
+                  <author>Swadlin, Thomas, 1600-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Thomas Swadlin.</note>
+                  <note>Caption title.</note>
+                  <note>"Numb. I".</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  Great Britain.</term>
+               <term>English periodicals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45060:1" rendition="simple:additions"/>
+            <head>Numb. 1. <hi>Mercurius Academicus:</hi> Communicating the Intelligence and Affairs of OXFORD to the reſt of the Paſſive party thorowout the Kingdom.</head>
+            <head type="sub">From <hi>Munday</hi> in Eaſter-week, to <hi>Saturday</hi> the 15 of April, <hi>Anno</hi> 1648.</head>
+            <head type="sub">Et Spes, &amp; Ratio Studiorum in Caeſare tantùm.</head>
+            <p>IF looſers have leave to ſpeak, <hi>Academicus</hi> needs no Apologie or Preamble to ſtuff his ſheet, and make full meaſure (as the faſhion is) with vantage and thumb breadths to inch it out. And therefore to hold the Loyal and honeſt hearted in ſuſpence no longer (who would hear from their Mother, I preſume) we ſhall endeavour the like ſpeed in <hi>relating,</hi> as our <hi>Viſitors</hi> in <hi>act<g ref="char:EOLhyphen"/>ing</hi> Miſchiefs; not letting our phant'ſie looſe, or dancing about the Matter as we might do, which on evident ſymptomes of her Recovery, we ſhall in a more compacted ſtyle and elevated vein attempt hereafter. In the mean while, 'tis worthy out obſervation what a ſeaſonable time they pitch on to ſet forward their Reformation-journey: For having begun on <hi>March</hi> 27, (his Majeſties Coronation-day) they have proceeded ever ſince moſt vigorouſly. And leſt that Antichriſtian and Heatheniſh cuſtom of being in charity with all the world at <hi>Eaſter</hi> ſhould continue as heretofore, they make choice of this time on ſet purpoſe to interrupt and take men <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> beau<g ref="char:EOLhyphen"/>tiful
+<pb n="2" facs="tcp:45060:2"/>and glorious object before their eyes, even a full body of Regulating members met together.</p>
+            <p>Where firſt, that they might <hi>eſtabliſh and promote Christs Kingdom</hi> (which a long time has been their promiſe to the world) to do it the neereſt way, they fall upon his Church with might and main: For, meeting on <hi>Eaſter. eve</hi> in <hi>Chriſt-Church-Hall</hi> to ſummon the members of that Foundation to appear on munday in <hi>Eaſter week</hi> in the <hi>Deans</hi> Lodgings, accordingly the game began very early upon that morning (ſuch an Holy-day makes miſchief reliſh) when by a poſted Paper they ordained <hi>that Doctour</hi> FELL <hi>ſhould immediately remove his family and houſhold goods, and yeeld up poſſeſſion to Maſter</hi> EDWARD RAI<g ref="char:EOLhyphen"/>NOLDS (a Viſitor) <hi>as his lawful ſucceſſour by Vote in Parlia<g ref="char:EOLhyphen"/>ment:</hi> But finding the Religious Matron his wife unwilling to part with all for asking it, who therefore with her young ones kept under Lock and Key to avoid the expected Tyranny of their Oppreſſors, they reſolve now, <hi>vi &amp; Armis,</hi> to ſubdue her ſpirit, and make her yeeld, having the Souldiery at their back to help them forwards, (<hi>Independents</hi> to ſettle the <hi>Directory,</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very pretty!) who with directions given from Engineer-Vul<g ref="char:EOLhyphen"/>can-<hi>Rogers,</hi> and their own acquired Dexterity in the trade, brake open the diſſenting Doors; where entering into the choiceſt rooms, they expected obedience unto their Summons: But that Royal Foundation could acknowledge no Viſitor but King CHARLES, which by a general abſenting themſelves the mock-<hi>Viſitors</hi> might perceive; although the Founder and they may ſeem of kin, and the very ſame Motto ſerve to know them both, <hi>(Ego &amp; Rex Meus)</hi> which the Cardinal (as well as they) even unto this day is famous for.</p>
+            <p>Having cooled themſelves by ſitting ſtill uninterrupted by any company but their own all-knowing Conſciences, and a domeſtick Cat or two, they expreſſe their diſcontents in wri<g ref="char:EOLhyphen"/>ting, and poſt it in publike view, as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>WHereas many members of this <g ref="char:V">Ʋ</g>niverſity have by ſtudied delays endeavoured to retard the great work of Reforma<g ref="char:EOLhyphen"/>tion intended by the Parliament; we the Viſitors of the ſaid <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſity,
+<pb n="3" facs="tcp:45060:2"/>having information given us that ſome Members pretend to have taken no Arms up againſt the Parliament, but upon con<g ref="char:EOLhyphen"/>ſtraint; and others to have been Souldiers onely in this Gariſon for the preſervation thereof, and therefore deſire the benefit of the ſix<g ref="char:EOLhyphen"/>teenth Article concluded on at the ſurrender of</hi> Oxon; <hi>do hereby allow ſuch perſons until Friday the</hi> 7 <hi>of April, to bring in their ſeveral Pleas and Pretenſions (whereby they conceive themſelves capable of receiving favour) under their own hand-writing, to any one Viſitor that ſhall be preſent; to be adjudged of by any five at their Convention. But if any one ſhall refuſe this ſo fair an offer, we know not what Apologie to make for them when we ſhall be cal<g ref="char:EOLhyphen"/>led upon (we cannot tell how ſoon) to give a juſt account of our Proceedings; where we deſire all to take notice, that no frivolous or vain pretences will avail in this ſo weighty a work of Reformation.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>This was no ſooner pulled down, but a ſecond ſupplied his place, which ran in theſe words, as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>WE the Viſitors, appointed by ſeveral Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, and ſpecial Order under the Great Seal, for the viſi<g ref="char:EOLhyphen"/>ting, regulating and reforming the <g ref="char:V">Ʋ</g>niverſity of</hi> Oxon; <hi>do here<g ref="char:EOLhyphen"/>by cite to appear before us, all Governours, Masters, Fellows, and Graduates that claim any right of Vote in Convocation-houſe; more particularly, Doctor</hi> Potter, <hi>late Preſident of</hi> Trinity. <hi>Colledge; Doctor</hi> Newlin, <hi>Preſident of</hi> Corpus Chriſti-<hi>Col<g ref="char:EOLhyphen"/>ledge; Maſter</hi> Waring <hi>of Chriſt-Church, Maſter</hi> Hunt <hi>of</hi> Mag<g ref="char:EOLhyphen"/>dalene-<hi>Colledge, late Proctors of the <g ref="char:V">Ʋ</g>niverſity, with all the D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ligates elected in the pretended Convocation on the firſt of June laſt paſt, to make their appearance on Friday the</hi> 7 <hi>of April, to give in their Pleas and Scruples in behalf of the <g ref="char:V">Ʋ</g>niverſity, and deliver up all the</hi> Inſignia <hi>of the late Vice-Chancellor and Proctors, with the Beadles ſtaves, unto us: Of which fail not, as you will anſwer at your perils.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>But theſe Paper-Kytes were ſo hooted at, that they appeared thereby more ridiculous: whereupon they got up on horſe-back to conduct the renowned Chancellour to do the feat; who on Tueſday the 11 of <hi>April</hi> came amongſt us accompanied with
+<pb n="4" facs="tcp:45060:3"/>ſuch Tag raggs for his followers, that one would ſwear he came Ambaſſadour from <hi>New-England</hi> by their Rabbinical Monkey faces, or that old <hi>England</hi> made a general Muſter of all her Spawns at once.</p>
+            <p>The Maſter of the Revels was no ſooner come, but <hi>Orlando Furioſo</hi> CHEYNEL begins the Play, who ſtood ready at <hi>Merton</hi>-Colledge provided with a Speech to entertain him, (which his Lordſhip and his horſe did underſtand alike:) After that, a moſt coſtly Bible was preſented him, and a Gratuity from the Maior and Aldermen: the later he accepted, and gave them thanks; but the former he thought a jeer put on him, and bequeathed it to his Chaplain to make his beſt of.</p>
+            <p>In the evening, Orders were given out that a Convocation ſhould be the day following, and the new made Beadles to ac<g ref="char:EOLhyphen"/>quaint the Gown men with it; who having got a copie of the form to divulge it in, proclamied it in falſe Latine moſt ſignifi<g ref="char:EOLhyphen"/>cantly.</p>
+            <p>Which the Rabble took notice of more then others, and re<g ref="char:EOLhyphen"/>paired accordingly to ſee the ſight, which in earneſt was worth their labour: for his Lordſhip with his immediate ſubſtitute, and their adjutants <hi>Croſſe</hi> and <hi>Button,</hi> with the Viſitors and their appurtenances, being come <hi>omnium gatherum</hi> into the Convocation-houſe, propoſed a new Creation to the world, but was not heard by reaſon of the noiſe and hiſſing, ſuch as ne<g ref="char:EOLhyphen"/>ver was before in that place, ſince <hi>Adam</hi> was firſt created.</p>
+            <p>This cauſed his mouth to open, after admiration of his learn<g ref="char:EOLhyphen"/>ed ſilence; who now told them the common way was broken down, and as the caſe now ſtood was uſeleſſe, they having got by conqueſt all the Power, and adventured their deareſt blood to purchaſe it; Proctor <hi>Croſſe</hi> confirming the ſame in the Speech he read aloud, with tautological and more ſchol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtick Angliciſms, then the mixt multitude could underſtand with pa<g ref="char:EOLhyphen"/>tience, who ſufficiently exploded his unbeſeeming ignorance, and went their way.</p>
+            <p>But the work of Creation muſt go forwards; and therefore Proclamation was made to all perſons whatſoever, that had laid aſide their Allegeance and Learning for the ſeven late yeers of trouble, and been occupied in employments of any other
+<pb n="5" facs="tcp:45060:3"/>nature, to nominate what degree they ſtood for, and 'twas their own; provided they continued in the ſame opinion ſtill, to be faithful to their Creator and his Nurſery, which may be famous in after-times, and flouriſh. Nay, the two factions did ſo claw each other in this Aſſembly, that the Officers (to make them Gentlemen) (though <hi>Independents</hi>) were created <hi>Maſters of Arts,</hi> the <hi>Governour</hi> himſelf not excepted; ſo that now they may preach by their authority, who have railed againſt them in their Sabbath-workings ever ſince <hi>Frank Cheynel</hi> and Maſter <hi>Erbury</hi> fought their Scripture-Duel.</p>
+            <p>This Comedy was no ſooner ended, but a Tragedy ſucceeds upon it. For coming with all the train to <hi>Chriſt-Church,</hi> they enter the Vice-Chancellors houſe with expedition, where Earl <hi>Philip</hi> (without an oath) profeſſing 'twas for his Countries good, the Vertuous and Heroick Gentlewomen were deſired to quit their quarters; but refuſing the kinde propoſal, were con<g ref="char:EOLhyphen"/>veyed out in a chair by Souldiers; one of them uſing this ex<g ref="char:EOLhyphen"/>preſſion without the leaſt ſigne of diſcontent, <hi>that though now ſhe was carried away in a chair, ſhe doubted not to come thither hereafter upon her own legs again.</hi>
+            </p>
+            <p>And becauſe the head cannot ſuffer ſingly, unleſſe the members partake and ſhare with it, while their hand is in, they obliterate theſe following Doctors from being Canons; <hi>viz.</hi> Doctor <hi>Hammond</hi> Orator to the Univerſity (whom <hi>Corbet</hi> a Viſitor ſucceeds in Office, and would ſpeak if he had a ſpoon, or words to utter) Doctor <hi>Gardiner,</hi> Doctor <hi>Iles,</hi> Doctor <hi>Paine,</hi> Doctor <hi>Morly,</hi> and Doctor <hi>Wall;</hi> whoſe places are filled up with theſe unanimated clods of earth, <hi>Aaron Rogers,</hi> Superviſer of New-Inne-Hall, and Viſitor, <hi>viz. Henry Langley</hi> Comptroller of <hi>Pembroke</hi>-Colledge, <hi>Henry Wilkinſon</hi> of <hi>Magdalen</hi>-Hall, a Vi<g ref="char:EOLhyphen"/>ſitor, <hi>John Mills</hi> Judge-advocate to the Army, and Viſitor, <hi>Toby Corniſh</hi> the ſqueaking Lecturer of <hi>Alhallows.</hi> Theſe are the hopeful quick-ſets newly grafted, for which the goodly Cedars muſt be removed and hewn down; the delicate Muſhromes of this age, that in one day grow up to their maturity, and like Medlars are reſerved in State-pickle, moſt eſteemed of for being rotten.</p>
+            <p>From <hi>Chriſt-Church</hi> they go to <hi>Mary Magdalene</hi>-Colledge,
+<pb n="6" facs="tcp:45060:4"/>which having had the preeminence of that ſanctified <hi>Hall</hi> ad<g ref="char:EOLhyphen"/>joyning to it, to the ineffable heart breaking of the godly mem<g ref="char:EOLhyphen"/>bers appertaining thereunto, muſt part with their learned Pre<g ref="char:EOLhyphen"/>ſident Doctor <hi>Oliver,</hi> and admit of that creeping Mole-catcher old <hi>Wilkinſon,</hi> with <hi>Cate</hi> his Doxy, to govern and bear rule o<g ref="char:EOLhyphen"/>ver them. Who no ſooner had got poſſeſſion, and took leave of their ancient Pigeon-houſe, but they ſnugg'd it together lovingly all that night, and dream'd not of <hi>Naboths</hi> vineyard taken from him; for he never was guilty of too much Scripture-know<g ref="char:EOLhyphen"/>ledge, who ſo often paid fourty ſhillings to have his courſe ſup<g ref="char:EOLhyphen"/>plied at S. <hi>Maries,</hi> while himſelf ſtaid at home (good ſoul) in meditation and ſerious ſtudy how long the mellifluous Sugar<g ref="char:EOLhyphen"/>ſops would be in preparing for him.</p>
+            <p>S. <hi>Johns</hi> is the next they viſit, whereof that gallant learned man Doctor <hi>Bayly</hi> is Preſident; who knowing his doom be<g ref="char:EOLhyphen"/>fore, was ſo far from fleeing that he took occaſion to meet half way with his antagoniſts: where after a Paſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>do complement with his Chancellorſhip, they require a ſubmiſſion to their Power, and admiſſion into his lodgings preſently; but received this anſwer from the Doctor, that <hi>for active obedi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce unto them, without palpable breach of Oathes he might not nor would do it, y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t willingly would be paſſive, that his conſcience might not ſuffer ſhip<g ref="char:EOLhyphen"/>wrack by it:</hi> which made his Honour ſcratch his periwig and noddle too, to pump out a moving argument; but his brain-pan put out of order, at laſt he cried out in plain Engliſh, <hi>Master Doctor, Reſigne your keys, that we may enter:</hi> which he refuſing to do, the fledges and Iron Crows were called for. At entrance his pretty children ſtood, which a Jew would have taken com<g ref="char:EOLhyphen"/>paſſion of, many of them being aguiſh, who therefore had dou<g ref="char:EOLhyphen"/>ble mercy ſhewed to them; firſt, a months time to remove for Maſter <hi>Cheinels</hi> coming in, and then unintendently their agues frighted from them.</p>
+            <p>But learned Doctor <hi>Shelden</hi> (Warden of <hi>All ſouls</hi>) ſpeaking his minde home unto them, and beating them with their own retorted weapons, for which many opprobrious terms were put upon him. We cannot omit one paſſage worthy laughter, to ſee how their ſhadows frighted them. The diſcourſe being hot about the Cauſe, and the Doctor maintaining no Parliament
+<pb n="7" facs="tcp:45060:4"/>without his Majeſtie the Creator of it, Sir <hi>Nathaniel</hi> puts in, and tells him that his Lordſhip would <hi>Sol</hi> that <hi>Quaere:</hi> which enraged him ſo on ſudden, that he began to open, and make way for his diſtracted anſwer: <hi>What meat you by this</hi> (ſays Earl <hi>Phil.</hi>) <hi>you intend not to entrap me, do you? To my knowledge the chair ſtands ready, and his Majeſty may ſit there if he pleaſe: I come not as Chancellor now, or Viſitor, (ye are miſtaken) but by imme<g ref="char:EOLhyphen"/>diate order from the States, and thoſe I will live and die with.</hi> Be<g ref="char:EOLhyphen"/>ing mum on the ſudden all, and put to ſilence, the Doctor muſt pay for's learning that had thus worſted them, and therefore was forth with ſent with a guard of Musketiers to priſon, yet accompanied with the peoples prayers to guard him better, who followed him in whole troops, and beſtowed their bleſ<g ref="char:EOLhyphen"/>ſings on him.</p>
+            <p>'Twere endleſſe to relate all quarrels with Governours and Heads of Houſes; as, for not opening the gates to admit his Highneſſe, who is too lofty (by the head) to get in at a door or wicket, for which Doctor <hi>Potter</hi> of <hi>Trinity</hi> Colledge was eje<g ref="char:EOLhyphen"/>cted by him, that Patriark <hi>Harris</hi> a doting <hi>Viſitor</hi> might enjoy both his houſe and Profits.</p>
+            <p>I deſire you'll not expect I ſhould give you the Speech his Lordſhip made in the Convocation to the <hi>Viſitors;</hi> for I hear you have it from a more dexterous hand.</p>
+            <p>And now let the world take notice what a bleſſed Reforma<g ref="char:EOLhyphen"/>tion is like to be, when the executioners and their adherents are the onely gainers by it; when the moſt eloquent Heads in <hi>Europe</hi> are cut off, that the informers againſt them, and the ſame men their ejectors, may ſucceed them, when (as Biſhops and Calve<g ref="char:EOLhyphen"/>skins received their doom in one day, ſo) by the ſame command <hi>our <g ref="char:V">Ʋ</g>niverſity</hi> and the <hi>States cloſe-Stool-houſe</hi> muſt be in the ſame week voided.</p>
+            <p>And therefore the tribe at <hi>New-Inne,</hi> with the brethren of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſame cut, to evidence their obliged gratitude to the Privie-Counſellor and Academical <hi>Gold-finder</hi> by his Office, are print<g ref="char:EOLhyphen"/>ing a Book of Poetry upon his coming; one copie whereof coming lately into my hands (through a miſtake) I ſhall (for the Authors reputation) here inſert, that the Reader may judge be<g ref="char:EOLhyphen"/>forehand of the reſt, and ſave the expence of three pence to buy the whole.</p>
+            <pb n="8" facs="tcp:45060:5" rendition="simple:additions"/>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Phi, malus, &amp; Lippus, ſcripſiſti in Verſibus,</hi> Owen,</l>
+                  <l>Pembrochiâ <hi>negat hoc, (fallaris ergo)</hi> Comes:</l>
+                  <l>
+                     <hi>Nolo Philippenſes atque Hebraeos recitare</hi>
+                  </l>
+                  <l>
+                     <hi>Tam malè, Spurcanti Carmine, neſcio quid.</hi>
+                  </l>
+                  <l>
+                     <hi>Nil piget, intuitus noſtrum ſi quando Libellum</hi>
+                  </l>
+                  <l>
+                     <hi>Exclumes, — Paucos</hi> hic ut Orbe bonos:</l>
+                  <l>
+                     <hi>Quod ſi</hi> Pembrochius <hi>maculetur Carmine, Cancel-</hi>
+                  </l>
+                  <l>
+                     <hi>larius, &amp; Mendax Presbyter, &amp; Nebuloes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Engliſhed thus:</head>
+                  <l>
+                     <hi>Owen,</hi> thou ſay'ſt that <hi>Phi</hi> and <hi>Lippus</hi> are</l>
+                  <l>Two words of Ignominy; have a care.</l>
+                  <l>How could'ſt thou quite forget (that dwell'ſt ſo nigh)</l>
+                  <l>
+                     <hi>Philip</hi> of <hi>Pembroke</hi> and <hi>Montgomery?</hi>
+                  </l>
+                  <l>We Hebrews and Philippians, to our power,</l>
+                  <l>Will vindicate our Lord and Chancellour.</l>
+                  <l>Nor had we been ſo mov'd if one had ſaid</l>
+                  <l>There's not a good verſe in the Book we made.</l>
+                  <l>If then your verſe our Chancellour did mean,</l>
+                  <l>We ſay you are a knave, and lie, again.</l>
+               </lg> 
+            </q>
+            <p>Why this is a vein indeed befits the matter: if thoſe other in the holy language ſhould be ſo quarrelſome not one Volume will contain them all, for fear they ſhould fight for ſheet and ſeniority in taking Places, until ſevered they be blown to th'Mercers ſhop to wrap up Pepper and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allow-Candles in.</p>
+            <q>
+               <l>That in a loathſome manner they may die,</l>
+               <l>As will their Rebel-ſubjects's Memory.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45060:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
